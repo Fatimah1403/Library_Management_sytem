@@ -1,0 +1,35 @@
+2024-12-13 10:35:39 - Book borrowed: Book Title 1 by 5
+2024-12-13 10:37:30 - Book borrowed: Book Title 2 by fatimah
+2024-12-13 10:39:53 - Book borrowed: Book Title 3 by Fatimah
+2024-12-13 10:40:19 - Book returned: Book Title 3 by Fatimah
+2024-12-13 11:07:23 - Book borrowed: The journey by Kenny
+2024-12-13 11:07:55 - Book returned: The journey by Kenny
+2024-12-13 15:03:24 - Book borrowed: The Catcher in the Rye by User1
+2024-12-13 15:03:24 - Book returned: The Catcher in the Rye by User1
+2024-12-13 15:03:47 - Book borrowed: The Catcher in the Rye by User1
+2024-12-13 15:03:47 - Book returned: The Catcher in the Rye by User1
+2024-12-13 16:26:06 - Book borrowed: The journey by User1
+2024-12-13 16:26:06 - Book borrowed: The journey by User1
+2024-12-13 16:26:06 - Book returned: The journey by User1
+2024-12-13 20:18:41 - Book borrowed: The journey by Fatimah
+2024-12-13 20:19:29 - Book returned: The journey by Fatimah
+2024-12-13 20:21:21 - Book borrowed: The journey by User1
+2024-12-13 20:21:21 - Book borrowed: The journey by User1
+2024-12-13 20:21:21 - Book returned: The journey by User1
+2024-12-14 11:51:44 - Book borrowed: Bulgu Murom by Fatimah
+2024-12-14 11:52:09 - Book returned: Bulgu Murom by Fatimah
+2024-12-14 12:02:35 - Book borrowed: Enjoy Love by Kenny
+2024-12-14 12:04:13 - Book returned: Enjoy Love by Kenny
+2024-12-14 12:08:18 - Book borrowed: My jorney shall by Fatimah
+2024-12-14 12:08:50 - Book returned: My jorney shall by Fatimah
+2024-12-14 12:10:05 - Book borrowed: The journey by User1
+2024-12-14 12:10:05 - Book borrowed: The journey by User1
+2024-12-14 12:10:05 - Book returned: The journey by User1
+2024-12-14 12:16:04 - Book borrowed: Enjoy Love by Fatimah
+2024-12-14 12:17:03 - Book returned: Enjoy Love by Fatimah
+2024-12-14 12:17:52 - Book borrowed: The journey by User1
+2024-12-14 12:17:52 - Book borrowed: The journey by User1
+2024-12-14 12:17:52 - Book returned: The journey by User1
+2025-01-13 20:03:17 - Book borrowed: The journey by User1
+2025-01-13 20:03:17 - Book borrowed: The journey by User1
+2025-01-13 20:03:17 - Book returned: The journey by User1
